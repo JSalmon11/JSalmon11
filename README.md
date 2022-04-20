@@ -1,15 +1,17 @@
 # Jorge Salmón
 
-### Hi there! 👋
-Hi! My name is Jorge.
+## Hi there! 👋
+Hi! My name is Jorge, Junior developer.
 
 I love creating projects of the things that I like and  that can be useful.
 
+I'm finishing my studies of Cross-Platform Application Development.
+
 I’m currently learning Kotlin, Unity, TypeScript...
 
-# Develop
+# Development
 
-## Platforms
+### Platforms
 
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg"/>
@@ -18,7 +20,7 @@ I’m currently learning Kotlin, Unity, TypeScript...
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg"/>
    </p> 
 
-## Languages
+### Languages
 
    <p align="center">
       <img src="https://github.com/JSalmon11/JSalmon11/blob/src/Languages/kotlin.svg"/>
@@ -32,7 +34,7 @@ I’m currently learning Kotlin, Unity, TypeScript...
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg"/>
    </p>  
    
-## Tools
+### Tools
 
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg"/>

@@ -1,13 +1,22 @@
 # Jorge Salmón
 
+<p>
+    <a href="/i18n/README_ES.md">Español</a>
+    ·
+    <a href="/i18n/readme_ja.md">日本語</a>
+    ·
+    <a href="/i18n/readme_pt-BR.md">Português</a>
+    ·
+    <a href="/i18n/readme_it.md">Italiano</a>
+  </p>
+
 ## Hi there! 👋
 Hi! My name is Jorge, Junior developer.
 
 I love creating projects of the things that I like and  that can be useful.
 
-I'm finishing my studies of Cross-Platform Application Development.
-
-I’m currently learning Kotlin, Unity, TypeScript...
+- 📚 I'm finishing my studies of Cross-Platform Application Development.
+- 🌱 I’m currently learning Kotlin, Unity, TypeScript...
 
 # Development
 
@@ -50,5 +59,6 @@ I’m currently learning Kotlin, Unity, TypeScript...
 ## Statistics   
 
    <p align="center">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
+      <img width="54%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true"/>
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true"/>
    </p>

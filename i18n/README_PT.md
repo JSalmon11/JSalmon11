@@ -1,15 +1,15 @@
 # Jorge Salmón
 
-## Presentación 👋
+## Apresentação 👋
 
-Jorge, Junior developer.
+Jorge, desenvolvedor júnior.
 
-Me gusta crear nuevos proyectos de las cosas que me gutsan y hacerlos lo más útiles posible.
+Gosto de criar novos projetos das coisas que gosto e torná-los o mais úteis possível.
 
-- 📚 Técnico superior en diseño y desarrollo de aplicaciones multiplataforma (DAM).
-- 🌱 Actualmente aprendiendo Kotlin, Unity, TypeScript...
+- 📚 Técnico superior em design e desenvolvimento de aplicações multiplataforma.
+- 🌱 Atualmente aprendendo Kotlin, Unity, TypeScript...
 
-# Desarrollo
+# Desenvolvimento 
 
 ### Plataformas
 
@@ -20,7 +20,7 @@ Me gusta crear nuevos proyectos de las cosas que me gutsan y hacerlos lo más ú
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg"/>
    </p> 
 
-### Lenguajes de programación
+### Linguagens de programação
 
    <p align="center">
       <img src="https://github.com/JSalmon11/JSalmon11/blob/src/Languages/kotlin.svg"/>
@@ -34,7 +34,7 @@ Me gusta crear nuevos proyectos de las cosas que me gutsan y hacerlos lo más ú
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg"/>
    </p>  
    
-### Herramientas
+### Ferramentas
 
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg"/>
@@ -47,9 +47,9 @@ Me gusta crear nuevos proyectos de las cosas que me gutsan y hacerlos lo más ú
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg"/>
    </p>
    
-## Estadísticas   
+## Estatisticas   
 
    <p align="center">
-      <img width="54%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=es"/>
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=es"/>
+      <img width="54%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=pt-PT"/>
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=pt-PT"/>
    </p>

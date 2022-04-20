@@ -1,17 +1,17 @@
 # Jorge Salmón
 
-## Presentación 👋
+## プレゼンテーション 👋
 
-Jorge, Junior developer.
+ホルヘ、ジュニア開発者。
 
-Me gusta crear nuevos proyectos de las cosas que me gutsan y hacerlos lo más útiles posible.
+私は自分が好きなものの新しいプロジェクトを作成し、それらを可能な限り役立つものにするのが好きです。
 
-- 📚 Técnico superior en diseño y desarrollo de aplicaciones multiplataforma (DAM).
-- 🌱 Actualmente aprendiendo Kotlin, Unity, TypeScript...
+- 📚 マルチプラットフォームアプリケーション の設計と開発の上級技術者。
+- 🌱 現在、Kotlin、Unity、TypeScriptを学習しています...
 
-# Desarrollo
+# 現像
 
-### Plataformas
+### プラットフォーム
 
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg"/>
@@ -20,7 +20,7 @@ Me gusta crear nuevos proyectos de las cosas que me gutsan y hacerlos lo más ú
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg"/>
    </p> 
 
-### Lenguajes de programación
+### プログラミング言語
 
    <p align="center">
       <img src="https://github.com/JSalmon11/JSalmon11/blob/src/Languages/kotlin.svg"/>
@@ -34,7 +34,7 @@ Me gusta crear nuevos proyectos de las cosas que me gutsan y hacerlos lo más ú
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg"/>
    </p>  
    
-### Herramientas
+### ツール
 
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg"/>
@@ -47,9 +47,9 @@ Me gusta crear nuevos proyectos de las cosas que me gutsan y hacerlos lo más ú
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg"/>
    </p>
    
-## Estadísticas   
+## 統計学   
 
    <p align="center">
-      <img width="54%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=es"/>
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=es"/>
+      <img width="54%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=ja"/>
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=ja"/>
    </p>

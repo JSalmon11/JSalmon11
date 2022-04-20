@@ -3,11 +3,11 @@
 <p>
     <a href="/i18n/README_ES.md">Español</a>
     ·
-    <a href="/i18n/readme_ja.md">日本語</a>
+    <a href="/i18n/README_JA.md">日本語</a>
     ·
-    <a href="/i18n/readme_pt-BR.md">Português</a>
+    <a href="/i18n/README_PT.md">Português</a>
     ·
-    <a href="/i18n/readme_it.md">Italiano</a>
+    <a href="/i18n/README_IT.md">Italiano</a>
   </p>
 
 ## Hi there! 👋

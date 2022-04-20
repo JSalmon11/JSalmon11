@@ -2,7 +2,7 @@
 
 ## Presentación 👋
 
-Jorge, Junior developer.
+Jorge, desarrollador Junior.
 
 Me gusta crear nuevos proyectos de las cosas que me gutsan y hacerlos lo más útiles posible.
 

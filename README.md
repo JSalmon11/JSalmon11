@@ -11,6 +11,7 @@
   </p>
 
 ## Hi there! 👋
+
 Hi! My name is Jorge, Junior developer.
 
 I love creating projects of the things that I like and  that can be useful.

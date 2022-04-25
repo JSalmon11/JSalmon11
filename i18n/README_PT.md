@@ -6,7 +6,7 @@ Jorge, desenvolvedor júnior.
 
 Gosto de criar novos projetos das coisas que gosto e torná-los o mais úteis possível.
 
-- 📚 Técnico superior em design e desenvolvimento de aplicações multiplataforma.
+- 📚 Técnico superior em desenvolvimento de aplicações multiplataforma.
 - 🌱 Atualmente aprendendo Kotlin, Unity, TypeScript...
 
 # Desenvolvimento 

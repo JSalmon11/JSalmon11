@@ -6,7 +6,7 @@ Jorge, desarrollador Junior.
 
 Me gusta crear nuevos proyectos de las cosas que me gustan y hacerlos lo más útiles posible.
 
-- 📚 Técnico superior en diseño y desarrollo de aplicaciones multiplataforma (DAM).
+- 📚 Técnico superior en desarrollo de aplicaciones multiplataforma (DAM).
 - 🌱 Actualmente aprendiendo Kotlin, Unity, TypeScript...
 
 # Desarrollo

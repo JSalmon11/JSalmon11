@@ -51,5 +51,5 @@ Me gusta crear nuevos proyectos de las cosas que me gustan y hacerlos lo más ú
 
    <p align="center">
       <img width="56%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=es"/>
-      <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=es"/>
+      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=es"/>
    </p>

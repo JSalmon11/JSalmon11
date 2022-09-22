@@ -16,7 +16,7 @@ Hi! My name is Jorge, Junior developer.
 
 I love creating projects of the things that I like and  that can be useful.
 
-- 📚 I'm finishing my studies of Cross-Platform Application Development.
+- 📚 Senior Technician in multiplatform application development.
 - 🌱 I’m currently learning Kotlin, Unity, TypeScript...
 
 # Development
